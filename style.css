@@ -1,0 +1,39 @@
+body{
+    justify-content: center;
+    align-items: center ;
+    height: 100vh;
+    /* background-image: url('./bg1.jpg'); */
+    color: white;
+    background-color: black;
+    background-repeat:no-rxepeat ;
+    background-size: cover;
+    background-size: 1300px 630px;
+}
+
+.heading{
+    font-weight: bolder;
+    font-size:11px;
+    border: 2px solid  black;
+    border-color: red; 
+    width: 200px;
+    position: absolute;
+    top:100px;
+    left:40%;
+    right: 50%;
+    border-radius: 20px;
+    background-color:transparent;
+    word-spacing: 10px;
+    
+} 
+
+#clock{
+    font-size: 175px;
+    width: 900px;
+    margin: 200px;
+    top:500px;
+    left: 2000px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    border-color: red;
+}
